@@ -1,0 +1,78 @@
+
+header a:link, header a:visited {
+text-decoration: none;
+color: #0000ff;
+}
+
+header a:hover{
+    color: #ff0000;
+}
+
+header a:active{
+    color: #4102024b;
+}
+
+body {
+    background-color: #80808046;
+    font-family: 'Open Sans', sans-serif;
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+p{
+    text-align: left;
+}
+
+ul{
+    padding: 0;
+    list-style: none;
+    text-align: center;
+}
+
+hr{
+    background-color: #ff0000;
+    height: 2px;
+    border: solid;
+}
+
+footer{
+    font-weight: bolder;
+    background-color: #4102024b;
+}
+
+header{
+    background-color: #4102024b;
+}
+
+.namn{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 2.5rem;
+    color: #530000;
+    text-align: center;
+}
+
+.github:link, .github:visited{
+color: #ff0000;
+}
+
+.github:hover{
+    font-size: 1.3rem;
+    font-weight: bold;
+color: #228b22;
+}
+
+.github:active{
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #000000;
+    font-family: fantasy;
+}
+
+.align-center{
+    text-align: center;
+}
+
+.align-left{
+    text-align: left;
+}
